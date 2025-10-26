@@ -1,0 +1,157 @@
+{
+  "mainMenu": [
+    {
+      "name": "Cyber Burger",
+      "description": "Grilled beef patty with cheese, lettuce, and tomato, served with fries.",
+      "price": 12.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/cyber_burger.jpg",
+      "ingredients": ["beef", "cheese", "lettuce", "tomato"]
+    },
+    {
+      "name": "Quantum Pasta",
+      "description": "Pasta with creamy Alfredo sauce and parmesan cheese.",
+      "price": 10.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/quantum_pasta.jpg",
+      "ingredients": ["pasta", "cheese", "cream"]
+    },
+    {
+      "name": "Firewall Steak",
+      "description": "Grilled steak seasoned with spices, served with vegetables.",
+      "price": 15.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/firewall_steak.jpg",
+      "ingredients": ["beef", "spices", "vegetables"]
+    },
+    {
+      "name": "AI Chicken Wrap",
+      "description": "Grilled chicken with lettuce, tomato, and ranch dressing in a tortilla.",
+      "price": 11.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/ai_chicken_wrap.jpg",
+      "ingredients": ["chicken", "lettuce", "tomato", "tortilla"]
+    },
+    {
+      "name": "Binary Veggie Bowl",
+      "description": "Roasted mixed vegetables with quinoa and vinaigrette.",
+      "price": 9.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/binary_veggie_bowl.jpg",
+      "ingredients": ["vegetables", "quinoa", "vinaigrette", "vegetarian"]
+    },
+    {
+      "name": "Malware Meatloaf",
+      "description": "Classic meatloaf with mashed potatoes and green beans.",
+      "price": 13.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/malware_meatloaf.jpg",
+      "ingredients": ["beef", "breadcrumbs", "potatoes", "green beans"]
+    },
+    {
+      "name": "Trojan Tacos",
+      "description": "Soft tortillas filled with seasoned beef, lettuce, and cheese.",
+      "price": 11.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/trojan_tacos.jpg",
+      "ingredients": ["beef", "lettuce", "cheese", "tortilla"]
+    },
+    {
+      "name": "Spyware Salmon",
+      "description": "Pan-seared salmon served with rice and sautéed vegetables.",
+      "price": 16.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/spyware_salmon.jpg",
+      "ingredients": ["salmon", "rice", "vegetables"]
+    },
+    {
+      "name": "Rootkit Risotto",
+      "description": "Creamy mushroom risotto with parmesan cheese.",
+      "price": 12.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/rootkit_risotto.jpg",
+      "ingredients": ["rice", "mushrooms", "cheese"]
+    },
+    {
+      "name": "Encryption Enchiladas",
+      "description": "Corn tortillas filled with chicken, topped with cheese and sauce.",
+      "price": 12.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/encryption_enchiladas.jpg",
+      "ingredients": ["chicken", "cheese", "sauce", "tortilla"]
+    }
+  ],
+
+  "appetizers": [
+    {
+      "name": "Firewall Fries",
+      "description": "Crispy seasoned fries served with ketchup.",
+      "price": 5.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/firewall_fries.jpg",
+      "ingredients": ["potatoes", "salt"]
+    },
+    {
+      "name": "Phishing Bites",
+      "description": "Mini fish tacos with a side of aioli sauce.",
+      "price": 7.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/phishing_bites.jpg",
+      "ingredients": ["fish", "tortilla", "sauce", "seafood"]
+    },
+    {
+      "name": "Zero-Day Dip",
+      "description": "Spinach and artichoke dip served with tortilla chips.",
+      "price": 6.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/zero_day_dip.jpg",
+      "ingredients": ["spinach", "artichoke", "cream"]
+    },
+    {
+      "name": "Packet Pretzels",
+      "description": "Soft pretzel sticks served with mustard dipping sauce.",
+      "price": 4.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/packet_pretzels.jpg",
+      "ingredients": ["flour", "yeast", "salt"]
+    },
+    {
+      "name": "Botnet Bruschetta",
+      "description": "Toasted bread topped with tomato, basil, and olive oil.",
+      "price": 6.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/botnet_bruschetta.jpg",
+      "ingredients": ["bread", "tomato", "basil", "olive oil"]
+    },
+    {
+      "name": "Malware Meatballs",
+      "description": "Beef meatballs served with marinara sauce.",
+      "price": 7.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/malware_meatballs.jpg",
+      "ingredients": ["beef", "breadcrumbs", "sauce", "spicy"]
+    }
+  ],
+
+  "desserts": [
+    {
+      "name": "Cookie Cache",
+      "description": "Warm chocolate chip cookies served with milk.",
+      "price": 4.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/cookie_cache.jpg",
+      "ingredients": ["flour", "sugar", "chocolate"]
+    },
+    {
+      "name": "Buffer Overflow Brownie",
+      "description": "Fudgy chocolate brownie topped with ganache.",
+      "price": 5.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/buffer_overflow_brownie.jpg",
+      "ingredients": ["chocolate", "sugar", "butter"]
+    },
+    {
+      "name": "Bit Berry Parfait",
+      "description": "Layered yogurt, granola, and fresh fruit.",
+      "price": 5.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/bit_berry_parfait.jpg",
+      "ingredients": ["yogurt", "granola", "fruit", "nut-free"]
+    },
+    {
+      "name": "Spyware Sorbet",
+      "description": "Refreshing lemon sorbet served chilled.",
+      "price": 4.99,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/spyware_sorbet.jpg",
+      "ingredients": ["lemon", "sugar", "water", "nut-free"]
+    },
+    {
+      "name": "Keylogger Cupcake",
+      "description": "Vanilla cupcake with chocolate frosting.",
+      "price": 4.49,
+      "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/keylogger_cupcake.jpg",
+      "ingredients": ["flour", "sugar", "chocolate"]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+/* General Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Navbar Overrides */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+}
+
+/* Menu Cards */
+.card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Card Titles */
+.card-title {
+    font-weight: 600;
+}
+
+/* Badge Styling */
+.badge {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+/* Filter & Sort Section */
+form-label {
+    font-size: 1rem;
+}
+
+.form-select {
+    margin-bottom: 1rem;
+}
+
+/* About Page */
+#about img {
+    max-width: 220px;
+    border-radius: 50%;
+}
+
+#about h4 {
+    margin-bottom: 1rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    .navbar-brand {
+        font-size: 1.3rem;
+    }
+}
