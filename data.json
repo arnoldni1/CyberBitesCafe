@@ -78,7 +78,7 @@
       "description": "Crispy seasoned fries served with ketchup.",
       "price": 5.99,
       "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/firewall_fries.jpg",
-      "ingredients": ["potatoes", "salt"]
+      "ingredients": ["potatoes", "salt", "vegetarian"]
     },
     {
       "name": "Phishing Bites",
@@ -92,21 +92,21 @@
       "description": "Spinach and artichoke dip served with tortilla chips.",
       "price": 6.49,
       "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/zero_day_dip.jpg",
-      "ingredients": ["spinach", "artichoke", "cream"]
+      "ingredients": ["spinach", "artichoke", "cream", "vegetarian"]
     },
     {
       "name": "Packet Pretzels",
       "description": "Soft pretzel sticks served with mustard dipping sauce.",
       "price": 4.99,
       "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/packet_pretzels.jpg",
-      "ingredients": ["flour", "yeast", "salt"]
+      "ingredients": ["flour", "yeast", "salt", "vegetarian"]
     },
     {
       "name": "Botnet Bruschetta",
       "description": "Toasted bread topped with tomato, basil, and olive oil.",
       "price": 6.99,
       "image": "https://raw.githubusercontent.com/arnoldni1/CyberBitesCafe/main/images/botnet_bruschetta.jpg",
-      "ingredients": ["bread", "tomato", "basil", "olive oil"]
+      "ingredients": ["bread", "tomato", "basil", "olive oil", "vegetarian"]
     },
     {
       "name": "Malware Meatballs",
